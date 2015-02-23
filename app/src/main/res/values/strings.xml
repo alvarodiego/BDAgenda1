@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    
+    <string name="app_name">BDagenda</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="cedula">Cedula:</string>
+    <string name="nombre">Nombre:</string>
+    <string name="apellido">Apellido:</string>
+    <string name="celular">Celular:</string>
+
+    <string name="agregar">Agregar HITHUB</string>
+
+    <string name="consultar">ConsultarHITHUB</string>
+
+    <string name="modificar">ModificarHITHUB</string>
+
+    <string name="borrar">Borrar</string>
+
+
+</resources>
